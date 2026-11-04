@@ -1,4 +1,4 @@
-Cardiovascular Disease Prediction Using Machine Learning
+**Cardiovascular Disease Prediction Using Machine Learning**
 
 Project Overview:
 
