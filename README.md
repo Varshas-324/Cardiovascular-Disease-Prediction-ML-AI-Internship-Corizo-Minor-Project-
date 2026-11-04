@@ -22,11 +22,11 @@ Key Features:
 
 Project Links:
 
-**Google Colab:** [Open Cardiovascular Disease Prediction Notebook](https://colab.research.google.com/drive/1iOP2zWZ89mEmiq6trxbscO45xtGe1W7s?usp=sharing)
+- **Google Colab:** [Open Cardiovascular Disease Prediction Notebook](https://colab.research.google.com/drive/1iOP2zWZ89mEmiq6trxbscO45xtGe1W7s?usp=sharing)
 
-**Google Drive:** [View Project Files](https://drive.google.com/drive/folders/1wNbg50n1x20IUsQOi2xEfgNvU9ty3rtK?usp=sharing)
+- **Google Drive:** [View Project Files](https://drive.google.com/drive/folders/1wNbg50n1x20IUsQOi2xEfgNvU9ty3rtK?usp=sharing)
 
-**GitHub:** [View Source Code](Project_1_Cardiovascular_Disease_Prediction%20(1).ipynb)
+- **GitHub:** [View Source Code](Project_1_Cardiovascular_Disease_Prediction%20(1).ipynb)
 
 Internship:
 
