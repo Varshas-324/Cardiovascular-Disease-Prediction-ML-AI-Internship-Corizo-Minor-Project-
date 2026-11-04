@@ -5,30 +5,20 @@ Project Overview:
 This project focuses on predicting cardiovascular disease using machine learning techniques. It includes data preprocessing, model training, comparison, and performance evaluation.
 
 Technologies Used:
-
-Python
-
-Pandas and NumPy
-
-Scikit-learn
-
-Random Forest
-
-Gradio
-
-Matplotlib and Seaborn
+- Python
+- Pandas and NumPy
+- Scikit-learn
+- Random Forest
+- Gradio
+- Matplotlib and Seaborn
 
 Key Features:
 
-Data preprocessing and feature engineering.
-
-Comparison of five machine learning algorithms.
-
-Random Forest model selection.
-
-Approximately 73.42% test accuracy.
-
-Interactive prediction interface using Gradio.
+- Data preprocessing and feature engineering.
+- Comparison of five machine learning algorithms.
+- Random Forest model selection.
+- Approximately 73.42% test accuracy.
+- Interactive prediction interface using Gradio.
 
 Project Links:
 
